@@ -2,7 +2,7 @@
 
 🎓 B.Tech AI & Data Science | 3rd Year | Hosur, Tamil Nadu  
 🤖 Aspiring AI Engineer | Python • ML • Deep Learning  
-📅 Open to AI Engineer Internship — June 2025  
+📅 Open to AI Engineer Internship — 2026  
 
 ---
 
