@@ -1,37 +1,92 @@
-# Hi, I'm Bargavi S 👋 (She/Her)
+# Hi, I'm Bargavi S 👋
 
-🎓 B.Tech AI & Data Science | 3rd Year | Hosur, Tamil Nadu  
-🤖 Aspiring AI Engineer | Python • ML • Deep Learning  
-📅 Open to AI Engineer Internship — 2026  
+🎓 B.Tech Artificial Intelligence & Data Science (2027)
 
----
+🤖 Generative AI Engineer building production-style AI applications using LLMs, RAG pipelines, and ML systems.
+
+## 🚀 About Me
+
+- Building AI applications with LLMs and Retrieval-Augmented Generation
+- Interested in GenAI Engineering, LLMOps, and scalable AI systems
+- Focused on turning ML models into real-world applications
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Generative AI
+- Large Language Models (LLMs)
+- RAG Pipelines
+- LangChain
+- LangGraph
+- Prompt Engineering
+- Vector Databases
+
+### Backend
+- Python
+- FastAPI
+- REST APIs
+- Docker
+
+### ML/MLOps
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- MLflow
+- GitHub Actions
+- Model Monitoring
+
+### Databases
+- ChromaDB
+- SQL
+
+## ⭐ Featured Projects
+
+### 🚀 OpsMind AI
+AI-powered document intelligence system using RAG.
+
+Features:
+- Document ingestion
+- Semantic search
+- Vector database retrieval
+- LLM-based answers
+- Source attribution
+
+Tech:
+FastAPI | ChromaDB | LangChain | Groq LLaMA
 
 ---
 
-## 📌 Featured Projects
+### 🤖 HR Policy Bot
 
-🔍 **[Student Attention Monitoring](https://github.com/BargaviS/StudentAttentionMonitoring)**  
-Real-time attention tracker using webcam + Computer Vision
+Enterprise-style document question answering system.
 
-🫁 **[Rare Disease ML](https://github.com/BargaviS/RareDisease_ML)**  
-Chest X-ray Pneumonia detection using Deep Learning & TFLite
-
-🚢 **[Titanic Survival Prediction](https://github.com/BargaviS/titanic_survival_prediction)**  
-ML classification model using Python & Scikit-learn
-
----
-
-## 📚 Currently Learning
-🔗 LangChain • 🤖 LLM APIs • 🗄️ Vector DBs • ⚡ Streamlit
+Features:
+- PDF processing
+- Embedding generation
+- Retrieval pipeline
+- Context-grounded responses
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bargavis)
+### ⚙️ MLOps Income Prediction Pipeline
+
+End-to-end ML deployment pipeline.
+
+Features:
+- MLflow tracking
+- Data drift detection
+- Automated retraining
+- CI/CD workflow
+
+---
+
+### 👁️ Student Attention Monitoring
+
+Computer vision system for real-time attention analysis.
+
+Tech:
+OpenCV | MediaPipe | Streamlit
+
+## 📫 Connect
+
+LinkedIn:
+linkedin.com/in/bargavis
